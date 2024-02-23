@@ -1,0 +1,1 @@
+<h1>JS DOM PROJECT</h1>
